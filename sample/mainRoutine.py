@@ -1,0 +1,3 @@
+import greeting
+
+greeting.daytime()

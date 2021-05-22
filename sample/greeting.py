@@ -1,0 +1,2 @@
+def daytime():
+    print ("hey")
